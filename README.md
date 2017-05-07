@@ -9,3 +9,4 @@ Welcome to the Web Development Course! There are some things you need to setup o
 
 Now you should receive an email entailling that you now have a GitHub Student Developer Account.
 ## Joining our class
+Go to https://classroom.github.com/classrooms/28517392-1103-web-development-t3 and request access. I will approve everyone next week
